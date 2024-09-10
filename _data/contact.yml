@@ -3,10 +3,6 @@
 - type: github
   icon: "fab fa-github"
   url: "https://github.com/IRobot-EC-2024"
-
-- type: portal
-  icon: "fa-solid fa-arrow-right"
-  url: "https://algorithm.xduirobot.cc"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
