@@ -4,4 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-**西电IRobot机器人战队 嵌入式组**
+**我们是西电IRobot机器人战队 嵌入式组**
+
+> 算法组博客 -> [portal](http://algorithm.xduirobot.cc/)
+{: .prompt-tip }
