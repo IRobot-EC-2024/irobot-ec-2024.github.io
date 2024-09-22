@@ -71,3 +71,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+
+        # If using the 'assets' git submodule from Chirpy Starter, uncomment below
